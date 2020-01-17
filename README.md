@@ -7,6 +7,14 @@ For Project Milestone 01, schedule a site visit with your service learning custo
 Push to this repository by Friday, January 17th with:
 
 1. The date you and your customer agree to the visit. The date you visit does not have to be before Friday, just an agreed upon date by Friday. 
-2. A list of 5 questions you plan to ask your customer during this visit. 
+- Meeting on Wednesday, at 3pm.
+2. A list of 5 questions you plan to ask your customer during this visit.
+- What kind of data do you have?
+- What sort of database or layout of a database did you have in mind?
+- Does anything need to be encrypted?
+- How much data are we working with?
+- How are you currently managing your data?
 3. The name(s) of the person(s) you will be meeting.
+- Lucio Ixcoy
 4. The location of the visit. 
+- 107 Grant St. Berea, KY 40403
